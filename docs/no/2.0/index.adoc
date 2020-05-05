@@ -8,8 +8,6 @@ Digitaliseringsdirektotatet
 :toclevels: 3
 :sectlinks:
 
-include::locale/attributes.adoc[]
-
 .Denne versjonen:
 https://data.norge.no/nlod/no/2.0
 
