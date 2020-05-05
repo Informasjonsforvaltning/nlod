@@ -4,5 +4,4 @@ The Ministry for Government Administration, Reform and church Affairs has create
 
 The Ministry recommends all data owners in the public sector to use the licence and we expect that the majority of Norwegian Public Sector Open data will be licenced under the NLOD.
 
-Norwegian Licence for Open Government Data (NLOD)
-Norsk lisens for offentlige data (NLOD)
+http://data.norge.no/nlod/en/2.0[Norwegian Licence for Open Government Data (NLOD)]
