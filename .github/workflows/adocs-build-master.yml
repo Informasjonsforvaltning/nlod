@@ -15,13 +15,7 @@ jobs:
       id: adocbuild
       uses: avattathil/asciidoctor-action@master
       with:
-          program: "asciidoctor -D docs -o index.html -a lang=nb docs/main.adoc"
-    - name: Build pdf
-      id: adocbuild_pdf
-      uses: avattathil/asciidoctor-action@master
-      with:
-          program: "asciidoctor-pdf -D docs -o document.pdf -a lang=nb docs/main.adoc"
-      continue-on-error: true
+          program: "asciidoctor -D build -R docs 'docs/**/*.adoc'"
     - name: Deploy
       uses: peaceiris/actions-gh-pages@v3
       with:
