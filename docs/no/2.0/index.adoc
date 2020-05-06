@@ -18,9 +18,9 @@ https://data.norge.no/nlod/no
 https://data.norge.no/nlod/no/1.0
 
 == Lisensavtalens innledning
-Denne lisensen gir deg rett til å kopiere, bruke og tilgjengeliggjøre informasjon gitt at du navngir bidragsyterne og oppfyller de vilkår som er beskrevet i denne lisensen. Ved å bruke informasjon som er gjort tilgjengelig under denne lisensen, aksepterer du vilkårene i denne lisensen. Som det fremgår av punkt 7 fraskriver lisensgiver seg ethvert ansvar for informasjonens kvalitet og hva informasjonen brukes til.
+Denne lisensen gir **deg** rett til å **kopiere**, **bruke** og **tilgjengeliggjøre informasjon** gitt at **du** navngir bidragsyterne og oppfyller de vilkår som er beskrevet i denne lisensen. Ved å **bruke informasjon** som er gjort tilgjengelig under denne lisensen, aksepterer **du** vilkårene i denne lisensen. Som det fremgår av punkt 7 fraskriver **lisensgiver** seg ethvert ansvar for **informasjonens** kvalitet og hva **informasjonen brukes** til.
 
-Lisensen skal ikke begrense noen rettighet eller frihet som lisenstaker har i henhold til offentleglova eller annen lovgivning som gir allmennheten rett til innsyn i offentlig virksomhet, eller som følger av unntak eller begrensninger i åndsverkloven. Lisensen begrenser heller ikke lisenstakers lovbestemte ytringsfrihet.
+Lisensen skal ikke begrense noen rettighet eller frihet som **lisenstaker** har i henhold til offentleglova eller annen lovgivning som gir allmennheten rett til innsyn i offentlig virksomhet, eller som følger av unntak eller begrensninger i åndsverkloven. Lisensen begrenser heller ikke **lisenstakers** lovbestemte ytringsfrihet.
 
 ****
 .Kommentar:
@@ -56,12 +56,13 @@ Ordet «database» kan i dagligtalen også brukes om noen typer kataloger som er
 ****
 
 == 2. Lisens
-Lisenstaker kan, med de begrensninger som følger av denne lisensen, bruke informasjonen, til ethvert formål og i enhver sammenheng, ved å:
+**Lisenstaker** kan, med de begrensninger som følger av denne lisensen, **bruke informasjonen**, til ethvert formål og i enhver sammenheng, ved å:
 
-kopiere informasjonen og tilgjengeliggjøre informasjonen for andre,
-endre informasjonen og/eller sette sammen informasjonen med annen informasjon, samt å
-kopiere og tilgjengeliggjøre slik endret eller sammensatt informasjon.
-Lisensen er ikke-eksklusiv, vederlagsfri og uten tidsmessige eller geografiske begrensninger. Informasjonen kan benyttes i ethvert medium og format, enten det er kjent i dag eller senere blir kjent. Lisenstaker kan ikke sublisensiere eller overføre denne lisensen.
+* **kopiere informasjonen** og **tilgjengeliggjøre informasjonen** for andre,
+* endre **informasjonen** og/eller sette sammen **informasjonen** med annen informasjon, samt å
+* **kopiere** og **tilgjengeliggjøre** slik endret eller sammensatt informasjon.
+
+Lisensen er ikke-eksklusiv, vederlagsfri og uten tidsmessige eller geografiske begrensninger. **Informasjonen** kan benyttes i ethvert medium og format, enten det er kjent i dag eller senere blir kjent. Lisenstaker kan ikke sublisensiere eller overføre denne lisensen.
 
 ****
 .Kommentar:
@@ -71,15 +72,15 @@ I siste setning er det presisert at lisenstaker ikke kan sublisensiere eller ove
 ****
 
 == 3. Unntak
-Lisensen omfatter ikke og gir derfor ikke rett til å bruke:
+Lisensen omfatter ikke og gir derfor ikke rett til å **bruke**:
 
-* informasjon som inneholder personopplysninger som er omfattet av personopplysningsloven med mindre det foreligger lovlig behandlingsgrunnlag for utleveringen og for den videre behandling av personopplysningene
-* informasjon som har blitt gjort tilgjengelig i strid med lovbestemt taushetsplikt
-* informasjon som er unntatt offentlighet med hjemmel i lov, deriblant informasjon som er skjermingsverdig etter sikkerhetsloven
-* informasjon omfattet av tredjeparts rettigheter som lisensgiver ikke kan lisensiere til lisenstaker
-* informasjon som er beskyttet av andre immaterialrettigheter enn opphavsrett og de nærstående rettighetene etter åndsverkloven kapittel 5, så som varemerker, patenter og designrettigheter, men dette er ikke til hinder for å benytte informasjon der lisensgivers logo er fast integrert i informasjonen eller for å navngi opphavet til informasjonen etter bestemmelsen nedenfor om navngivelse.
+* **informasjon** som inneholder personopplysninger som er omfattet av personopplysningsloven med mindre det foreligger lovlig behandlingsgrunnlag for utleveringen og for den videre behandling av personopplysningene
+* **informasjon** som har blitt gjort tilgjengelig i strid med lovbestemt taushetsplikt
+* **informasjon** som er unntatt offentlighet med hjemmel i lov, deriblant informasjon som er skjermingsverdig etter sikkerhetsloven
+* **informasjon** omfattet av tredjeparts rettigheter som **lisensgiver** ikke kan lisensiere til **lisenstaker**
+* **informasjon** som er beskyttet av andre immaterialrettigheter enn opphavsrett og de nærstående rettighetene etter åndsverkloven kapittel 5, så som varemerker, patenter og designrettigheter, men dette er ikke til hinder for å benytte **informasjon** der **lisensgivers** logo er fast integrert i **informasjonen** eller for å navngi opphavet til **informasjonen** etter bestemmelsen nedenfor om navngivelse.
 
-Hvis lisensgiver har tilgjengeliggjort informasjon som ikke blir omfattet av lisensen, i henhold til listen over, skal lisenstaker stoppe all form for bruk i kraft av lisensen, og slette informasjonen, så snart vedkommende blir gjort kjent med eller burde forstått at dette er informasjon som ikke er omfattet av lisensen.
+Hvis **lisensgiver** har tilgjengeliggjort **informasjon** som ikke blir omfattet av lisensen, i henhold til listen over, skal **lisenstaker** stoppe all form for **bruk** i kraft av lisensen, og slette **informasjonen**, så snart vedkommende blir gjort kjent med eller burde forstått at dette er **informasjon** som ikke er omfattet av lisensen.
 
 ****
 .Kommentarer
