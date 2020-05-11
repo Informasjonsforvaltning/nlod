@@ -61,6 +61,6 @@ For dette trenger du å installere Python på din datamaskin:
 
 ```
 % python -m pip install --user live-server
-% live-server docs
+% live-server build
 ```
 Åpne en nettleser og gå til http://localhost:8888
