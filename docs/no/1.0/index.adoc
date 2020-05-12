@@ -15,9 +15,9 @@ https://data.norge.no/nlod/no/1.0
 https://data.norge.no/nlod/no
 
 == Lisensavtalens innledning
-Denne lisensen gir deg rett til å kopiere, bruke og tilgjengeliggjøre informasjon gitt at du navngir bidragsyterne og oppfyller de vilkår som er beskrevet i denne lisensen. Ved å bruke informasjon som er gjort tilgjengelig under denne lisensen, aksepterer du vilkårene i denne lisensen. Som det fremgår av punkt 7 fraskriver lisensgiver seg ethvert ansvar for informasjonens kvalitet og hva informasjonen brukes til.
+Denne lisensen gir **deg** rett til å **kopiere**, **bruke** og **tilgjengeliggjøre informasjon** gitt at **du** navngir bidragsyterne og oppfyller de vilkår som er beskrevet i denne lisensen. Ved å **bruke informasjon** som er gjort tilgjengelig under denne lisensen, aksepterer **du** vilkårene i denne lisensen. Som det fremgår av punkt 7 fraskriver **lisensgiver** seg ethvert ansvar for **informasjonens** kvalitet og hva **informasjonen brukes** til.
 
-Lisensen skal ikke begrense noen rettighet eller frihet som lisenstaker har i henhold til offentleglova eller annen lovgivning som gir allmennheten rett til innsyn i offentlig virksomhet, eller som følger av unntak eller begrensninger i åndsverkloven. Lisensen begrenser heller ikke lisenstakers lovbestemte ytringsfrihet.
+Lisensen skal ikke begrense noen rettighet eller frihet som **lisenstaker** har i henhold til offentleglova eller annen lovgivning som gir allmennheten rett til innsyn i offentlig virksomhet, eller som følger av unntak eller begrensninger i åndsverkloven. Lisensen begrenser heller ikke **lisenstakers** lovbestemte ytringsfrihet.
 
 ****
 .Kommentar:
@@ -53,12 +53,13 @@ Ordet «database» kan i dagligtalen også brukes om noen typer kataloger som er
 ****
 
 == 2. Lisens
-Lisenstaker kan, med de begrensninger som følger av denne lisensen, bruke informasjonen, til ethvert formål og i enhver sammenheng, ved å:
+**Lisenstaker** kan, med de begrensninger som følger av denne lisensen, **bruke informasjonen**, til ethvert formål og i enhver sammenheng, ved å:
 
-kopiere informasjonen og tilgjengeliggjøre informasjonen for andre,
-endre informasjonen og/eller sette sammen informasjonen med annen informasjon, samt å
-kopiere og tilgjengeliggjøre slik endret eller sammensatt informasjon.
-Lisensen er ikke-eksklusiv, vederlagsfri og uten tidsmessige eller geografiske begrensninger. Informasjonen kan benyttes i ethvert medium og format, enten det er kjent i dag eller senere blir kjent. Lisenstaker kan ikke sublisensiere eller overføre denne lisensen.
+* **kopiere informasjonen** og **tilgjengeliggjøre informasjonen** for andre,
+* endre **informasjonen** og/eller sette sammen **informasjonen** med annen informasjon, samt å
+* **kopiere** og **tilgjengeliggjøre** slik endret eller sammensatt informasjon.
+
+Lisensen er ikke-eksklusiv, vederlagsfri og uten tidsmessige eller geografiske begrensninger. **Informasjonen** kan benyttes i ethvert medium og format, enten det er kjent i dag eller senere blir kjent. Lisenstaker kan ikke sublisensiere eller overføre denne lisensen.
 
 ****
 .Kommentar:
@@ -68,15 +69,15 @@ I siste setning er det presisert at lisenstaker ikke kan sublisensiere eller ove
 ****
 
 == 3. Unntak
-Lisensen omfatter ikke og gir derfor ikke rett til å bruke:
+Lisensen omfatter ikke og gir derfor ikke rett til å **bruke**:
 
-* informasjon som inneholder personopplysninger som er omfattet av personopplysningsloven med mindre det foreligger lovlig behandlingsgrunnlag for utleveringen og for den videre behandling av personopplysningene
-* informasjon som har blitt gjort tilgjengelig i strid med lovbestemt taushetsplikt
-* informasjon som er unntatt offentlighet med hjemmel i lov, deriblant informasjon som er skjermingsverdig etter sikkerhetsloven
-* informasjon omfattet av tredjeparts rettigheter som lisensgiver ikke kan lisensiere til lisenstaker
-* informasjon som er beskyttet av andre immaterialrettigheter enn opphavsrett og de nærstående rettighetene etter åndsverkloven kapittel 5, så som varemerker, patenter og designrettigheter, men dette er ikke til hinder for å benytte informasjon der lisensgivers logo er fast integrert i informasjonen eller for å navngi opphavet til informasjonen etter bestemmelsen nedenfor om navngivelse.
+* **informasjon** som inneholder personopplysninger som er omfattet av personopplysningsloven med mindre det foreligger lovlig behandlingsgrunnlag for utleveringen og for den videre behandling av personopplysningene
+* **informasjon** som har blitt gjort tilgjengelig i strid med lovbestemt taushetsplikt
+* **informasjon** som er unntatt offentlighet med hjemmel i lov, deriblant informasjon som er skjermingsverdig etter sikkerhetsloven
+* **informasjon** omfattet av tredjeparts rettigheter som **lisensgiver** ikke kan lisensiere til **lisenstaker**
+* **informasjon** som er beskyttet av andre immaterialrettigheter enn opphavsrett og de nærstående rettighetene etter åndsverkloven kapittel 5, så som varemerker, patenter og designrettigheter, men dette er ikke til hinder for å benytte **informasjon** der **lisensgivers** logo er fast integrert i **informasjonen** eller for å navngi opphavet til **informasjonen** etter bestemmelsen nedenfor om navngivelse.
 
-Hvis lisensgiver har tilgjengeliggjort informasjon som ikke blir omfattet av lisensen, i henhold til listen over, skal lisenstaker stoppe all form for bruk i kraft av lisensen, og slette informasjonen, så snart vedkommende blir gjort kjent med eller burde forstått at dette er informasjon som ikke er omfattet av lisensen.
+Hvis **lisensgiver** har tilgjengeliggjort **informasjon** som ikke blir omfattet av lisensen, i henhold til listen over, skal **lisenstaker** stoppe all form for **bruk** i kraft av lisensen, og slette **informasjonen**, så snart vedkommende blir gjort kjent med eller burde forstått at dette er **informasjon** som ikke er omfattet av lisensen.
 
 ****
 .Kommentarer
@@ -89,7 +90,7 @@ Det at lisensgiver har publisert «informasjon omfattet av tredjeparts rettighet
 
 
 == 4. Virkninger ved brudd på lisensen
-Lisensen er betinget av at lisenstaker oppfyller vilkårene i denne lisensen. Lisenstakers brudd på denne lisensen innebærer at lisenstakers rett til å bruke informasjonen umiddelbart og uten varsel opphører. Lisenstaker skal ved slikt brudd, umiddelbart og uten varsel, treffe de tiltak som er nødvendige å bringe krenkelsen til opphør. Fordi retten til å bruke informasjonen opphører må lisenstaker stoppe all form for bruk av informasjonen i kraft av lisensen.
+Lisensen er betinget av at **lisenstaker** oppfyller vilkårene i denne lisensen. **Lisenstakers** brudd på denne lisensen innebærer at **lisenstakers** rett til å **bruke informasjonen** umiddelbart og uten varsel opphører. **Lisenstaker** skal ved slikt brudd, umiddelbart og uten varsel, treffe de tiltak som er nødvendige å bringe krenkelsen til opphør. Fordi retten til å **bruke informasjonen** opphører må **lisenstaker** stoppe all form for **bruk** av **informasjonen** i kraft av lisensen.
 
 ****
 .Kommentar:
@@ -97,13 +98,13 @@ Hvis lisenstaker ikke oppfyller sine forpliktelser etter lisensavtalen faller ti
 ****
 
 == 5. Navngivelse
-Lisenstaker skal navngi lisensgiver slik det blir spesifisert av lisensgiver, og henvise til denne lisensen. Når det er praktisk mulig, skal lisenstaker lenke til både denne lisensen og til kilden til informasjonen.
+**Lisenstaker** skal navngi **lisensgiver** slik det blir spesifisert av **lisensgiver**, og henvise til denne lisensen. Når det er praktisk mulig, skal **lisenstaker** lenke til både denne lisensen og til kilden til **informasjonen**.
 
-Hvis lisensgiver ikke spesifiserer hvordan navngivelse bør foretas, skal lisenstaker normalt oppgi følgende: «Inneholder data under Norsk lisens for offentlige data (NLOD) tilgjengeliggjort av [navnet på lisensgiver]».
+Hvis **lisensgiver** ikke spesifiserer hvordan navngivelse bør foretas, skal **lisenstaker** normalt oppgi følgende: «Inneholder data under Norsk lisens for offentlige data **(NLOD)** tilgjengeliggjort av [navnet på **lisensgiver**]».
 
-Hvis lisensgiver har spesifisert at informasjonen kun er tilgjengelig under en bestemt versjon av denne lisensen, jf. punkt 10, skal Lisenstaker oppgi dette.
+Hvis **lisensgiver** har spesifisert at **informasjonen** kun er tilgjengelig under en bestemt versjon av denne lisensen, jf. punkt 10, skal **Lisenstaker** oppgi dette.
 
-Er informasjonen endret skal lisenstaker tydelig angi at endringer er blitt gjort av lisenstaker.
+Er **informasjonen** endret skal **lisenstaker** tydelig angi at endringer er blitt gjort av **lisenstaker**.
 
 ****
 Kommentar:
@@ -118,9 +119,9 @@ Hvis lisenstaker har endret informasjonen skal det merkes, for eksempel på denn
 ****
 
 == 6. Forsvarlig bruk
-Lisenstaker skal ikke bruke informasjonen på en måte som fremstår som villedende, og heller ikke fordreie eller uriktig fremstille informasjonen.
+**Lisenstaker** skal ikke **bruke informasjonen** på en måte som fremstår som villedende, og heller ikke fordreie eller uriktig fremstille **informasjonen**.
 
-Verken lisensgivers eller andre bidragsyteres navn eller varemerker skal bli brukt for å gi støtte til, for å anbefale eller for å markedsføre lisenstaker eller produkter eller tjenester som benytter informasjonen.
+Verken **lisensgivers** eller andre bidragsyteres navn eller varemerker skal bli brukt for å gi støtte til, for å anbefale eller for å markedsføre **lisenstaker** eller produkter eller tjenester som benytter **informasjonen**.
 
 ****
 .Kommentar:
@@ -130,11 +131,11 @@ Kravet må også ses i sammenheng med eksisterende lovverk om blant annet villed
 ****
 
 == 7. Ansvarsfraskrivelse
-Informasjonen er «som den er». Informasjonen kan inneholde feil og utelatelser. Lisensgiver gir ingen garantier, heller ikke for informasjonens innhold eller aktualitet.
+**Informasjonen** er «som den er». **Informasjonen** kan inneholde feil og utelatelser. **Lisensgiver** gir ingen garantier, heller ikke for **informasjonens** innhold eller aktualitet.
 
-Lisensgiver fraskriver seg, så langt det er rettslig adgang til det, ethvert ansvar for feil og mangler ved informasjonen.
+**Lisensgiver** fraskriver seg, så langt det er rettslig adgang til det, ethvert ansvar for feil og mangler ved **informasjonen**.
 
-Lisensgiver er ikke ansvarlig for direkte eller indirekte tap som måtte oppstå som følge av utnyttelse av informasjonen eller i forbindelse med kopiering eller videre tilgjengeliggjøring av informasjon.
+**Lisensgiver** er ikke ansvarlig for direkte eller indirekte tap som måtte oppstå som følge av utnyttelse av **informasjonen** eller i forbindelse med **kopiering** eller videre **tilgjengeliggjøring** av **informasjon**.
 
 ****
 .Kommentarer:
@@ -146,7 +147,7 @@ Fordi lisensavtalen ikke handler om tilgang til informasjonen tar lisensgiver he
 ****
 
 == 8. Garantier for datakvalitet og tilgjengelighet
-Denne lisensen er ikke til hinder for at lisensgiver kan gi supplerende uttalelser om forventet eller tilsiktet datakvalitet og tilgjengelighet. Slike uttalelser skal anses å være av veiledende art og er ikke forpliktende for lisensgiver. Ansvarsfraskrivelsene i punkt 7 gjelder uavkortet også når det er gitt slike veiledende uttalelser. Lisensgiver kan ved særskilt avtale gi garantier og tilgjengeliggjøre informasjonen på andre vilkår enn de som følger av denne lisensen.
+Denne lisensen er ikke til hinder for at **lisensgiver** kan gi supplerende uttalelser om forventet eller tilsiktet datakvalitet og tilgjengelighet. Slike uttalelser skal anses å være av veiledende art og er ikke forpliktende for **lisensgiver**. Ansvarsfraskrivelsene i punkt 7 gjelder uavkortet også når det er gitt slike veiledende uttalelser. **Lisensgiver** kan ved særskilt avtale gi garantier og tilgjengeliggjøre **informasjonen** på andre vilkår enn de som følger av denne lisensen.
 
 ****
 .Kommentarer:
@@ -156,13 +157,13 @@ Hvis lisenstaker ønsker at lisensgiver skal forplikte seg ved å stille garanti
 ****
 
 == 9. Lisenskompatibilitet
-Hvis lisenstaker tilgjengeliggjør en avledet eller sammensatt frembringelse, basert på informasjon som omfattes av denne lisensen og en annen frembringelse som er lisensiert under en avtalefestet kompatibel lisens, kan tilgjengeliggjøringen foretas under en passende avtalefestet kompatibel lisens, jf. listen under.
+Hvis **lisenstaker** tilgjengeliggjør en avledet eller sammensatt frembringelse, basert på **informasjon** som omfattes av denne lisensen og en annen frembringelse som er lisensiert under en **avtalefestet kompatibel lisens**, kan tilgjengeliggjøringen foretas under en passende **avtalefestet kompatibel lisens**, jf. listen under.
 
-En avtalefestet kompatibel lisens skal bety følgende lisenser:
+En **avtalefestet kompatibel lisens** skal bety følgende lisenser:
 
-* for all informasjon: Open Government Licence (versjon 1.0, 2.0 og 3.0), Creative Commons Attribution Licence (internasjonal versjon 4.0 og norsk versjon 4.0),
-* for de deler av informasjonen som ikke utgjør databaser: Creative Commons Attribution Licence (generic versjon 1.0, 2.0, 2.5 og unported versjon 3.0) og Creative Commons Navngivelse 3.0 Norge,
-* for de deler av informasjonen som utgjør databaser, Open Data Commons Attribution License (versjon 1.0).
+* for all **informasjon**: Open Government Licence (versjon 1.0, 2.0 og 3.0), Creative Commons Attribution Licence (internasjonal versjon 4.0 og norsk versjon 4.0),
+* for de deler av **informasjonen** som ikke utgjør **databaser**: Creative Commons Attribution Licence (generic versjon 1.0, 2.0, 2.5 og unported versjon 3.0) og Creative Commons Navngivelse 3.0 Norge,
+* for de deler av **informasjonen** som utgjør **databaser**, Open Data Commons Attribution License (versjon 1.0).
 
 Denne bestemmelsen er ikke til hinder for at andre lisenser etter sitt innhold kan være kompatible med denne lisensen.
 
@@ -178,7 +179,7 @@ En oppdatert liste over alle lisenser ansvarlig departement (for tiden Kommunal-
 ****
 
 == 10. Nye versjoner av lisensen
-Lisenstaker kan velge å utnytte informasjonen som omfattes av lisensen under nye versjoner av Norsk lisens for offentlige data (NLOD) som blir utgitt av ansvarlig departement (for tiden Kommunal- og moderniseringsdepartementet) når disse versjonene er endelige og offisielle, med mindre lisensgiver ved tilgjengeliggjøringen av informasjonen under denne lisensen har gitt utrykk for at kun versjon 2.0 kan benyttes.
+**Lisenstaker** kan velge å utnytte **informasjonen** som omfattes av lisensen under nye versjoner av Norsk lisens for offentlige data (NLOD) som blir utgitt av ansvarlig departement (for tiden Kommunal- og moderniseringsdepartementet) når disse versjonene er endelige og offisielle, med mindre **lisensgiver** ved tilgjengeliggjøringen av **informasjonen** under denne lisensen har gitt utrykk for at kun versjon 2.0 kan benyttes.
 
 ****
 .Kommentar:
@@ -192,7 +193,7 @@ For å sikre at informasjonen ikke blir «strandet» under gamle vilkår og blir
 ****
 
 == 11. Valg av lov og verneting
-Denne lisensen, inkludert dens inngåelse, og enhver tvist og ethvert krav som oppstår i forbindelse med eller relatert til denne lisensen, skal være underlagt norsk rett. Vernetinget skal være lisensgivers alminnelige verneting. Lisensgiver kan velge å fremme krav ved verneting i og/eller, hva gjelder de immaterielle rettigheter, under loven til det land der den immaterielle rettigheten søkes håndhevet.
+Denne lisensen, inkludert dens inngåelse, og enhver tvist og ethvert krav som oppstår i forbindelse med eller relatert til denne lisensen, skal være underlagt norsk rett. Vernetinget skal være **lisensgivers** alminnelige verneting. **Lisensgiver** kan velge å fremme krav ved verneting i og/eller, hva gjelder de immaterielle rettigheter, under loven til det land der den immaterielle rettigheten søkes håndhevet.
 
 ****
 .Kommentar:
