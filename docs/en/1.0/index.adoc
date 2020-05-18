@@ -9,17 +9,17 @@ Norwegian Digitalisation Agency
 :toclevels: 3
 :sectlinks:
 
-=Norwegian Licence for Open Government Data (NLOD) 1.0
-This version:
+
+.This version:
 https://data.norge.no/nlod/en/1.0
 
 .Latest published version (landing page):
 https://data.norge.no/nlod/en
 
 == Preface of licence
-This licence grants you the right to copy, use and distribute information, provided you acknowledge the contributors and comply with the terms and conditions stipulated in this licence. By using information made available under this licence, you accept the terms and conditions set forth in this licence. As set out in Section 7, the licensor disclaims any and all liability for the quality of the information and what the information is used for.
+This licence grants **you** the right to **copy**, **use** and **distribute information**, provided you acknowledge the contributors and comply with the terms and conditions stipulated in this licence. By **using information** made available under this licence, **you** accept the terms and conditions set forth in this licence. As set out in Section 7, the **licensor** disclaims any and all liability for the quality of the **information** and what the **information** is **used** for.
 
-This licence shall not impose any limitations on the rights or freedoms of the licensee under the Norwegian Freedom of Information Act or any other legislation granting the general public a right of access to public sector information, or that follow from exemptions or limitations stipulated in the Norwegian Copyright Act. Further, the licence shall not impose any limitations on the licensee's freedom of expression recognized by law.
+This licence shall not impose any limitations on the rights or freedoms of the **licensee** under the Norwegian Freedom of Information Act or any other legislation granting the general public a right of access to public sector information, or that follow from exemptions or limitations stipulated in the Norwegian Copyright Act. Further, the licence shall not impose any limitations on the **licensee's** freedom of expression recognized by law.
 
 ****
 
@@ -57,12 +57,13 @@ In colloquial terms, the word «database» can also be used for certain types of
 ****
 
 == 2. Licence
-The licensee, subject to the limitations that follow from this licence, may use the information for any purpose and in all contexts, by:
+The **licensee**, subject to the limitations that follow from this licence, may **use** the **information** for any purpose and in all contexts, by:
 
-copying the information and distributing the information to others,
-modifying the information and/or combining the information with other information, and
-copying and distributing such changed or combined information.
-This is a non-exclusive, free, perpetual and worldwide licence. The information may be used in any medium and format known today and/or which will become known in the future. The Licensee shall not sub-license or transfer this licence.
+* **copying** the **information** and **distributing** the **information** to others,
+* modifying the **information** and/or combining the **information** with other information, and
+* **copying** and **distributing** such changed or combined **information**.
+
+This is a non-exclusive, free, perpetual and worldwide licence. The **information** may be used in any medium and format known today and/or which will become known in the future. The **Licensee** shall not sub-license or transfer this licence.
 
 ****
 
