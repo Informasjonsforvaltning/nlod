@@ -4,7 +4,7 @@ Norwegian Digitalisation Agency
 :docinfo:
 :icons: font
 :toc: left
-:toc-title: Innholdsfortegnelse
+:toc-title: Content
 :toclevels: 3
 :sectlinks:
 
