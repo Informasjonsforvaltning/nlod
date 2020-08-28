@@ -14,3 +14,9 @@ Repo for revisjon av lisensen.
 │   └── index.adoc        # norks oppsummering
 ├── index.adoc            # landingsside, evt redirect
 ```
+
+## Bygge lokalt
+```
+% docker run -it -v $(pwd):/documents asciidoctor/docker-asciidoctor
+bash-5.0# asciidoctor -D build -R docs 'docs/**/*.adoc'
+```
