@@ -18,5 +18,5 @@ Repo for revisjon av lisensen.
 ## Bygge lokalt
 ```
 % docker run -it -v $(pwd):/documents asciidoctor/docker-asciidoctor
-bash-5.0# asciidoctor -D build -R docs 'docs/**/*.adoc'
+# asciidoctor -D build -R docs 'docs/**/*.adoc'
 ```
