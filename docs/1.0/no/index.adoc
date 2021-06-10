@@ -9,10 +9,10 @@ Digitaliseringsdirektotatet
 :sectlinks:
 
 .Denne versjonen:
-https://data.norge.no/nlod/no/1.0
+https://data.norge.no/nlod/1.0/no
 
 .Siste publiserte versjon (landingsside):
-https://data.norge.no/nlod/no
+https://data.norge.no/nlod
 
 == Lisensavtalens innledning
 Denne lisensen gir **deg** rett til å **kopiere**, **bruke** og **tilgjengeliggjøre informasjon** gitt at **du** navngir bidragsyterne og oppfyller de vilkår som er beskrevet i denne lisensen. Ved å **bruke informasjon** som er gjort tilgjengelig under denne lisensen, aksepterer **du** vilkårene i denne lisensen. Som det fremgår av punkt 7 fraskriver **lisensgiver** seg ethvert ansvar for **informasjonens** kvalitet og hva **informasjonen brukes** til.
