@@ -22,7 +22,7 @@ jobs:
         id: adocbuild_summary
         uses: avattathil/asciidoctor-action@master
         with:
-          program: "asciidoctor -D build -R docs 'docs/*.adoc'"
+          program: "asciidoctor -D build -o index.html docs/index.adoc"
 
       - name: Build html
         id: adocbuild_nlod
