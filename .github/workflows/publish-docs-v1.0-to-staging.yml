@@ -1,0 +1,62 @@
+name: build adocs and publish develop /v1.0 to staging
+
+on:
+  push:
+    branches:
+      - develop
+    paths:
+      - docs/1.0/**
+  workflow_dispatch:
+
+jobs:
+  adoc_build:
+    runs-on: ubuntu-latest
+    name: asciidoctor build
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          ref: develop
+
+      - name: Build html nlod 1.0 summary nb
+        id: adocbuild
+        uses: avattathil/asciidoctor-action@master
+        with:
+          program: "asciidoctor -D docs/1.0 -o index.html -a lang=nb docs/1.0/index.adoc"
+
+      - name: Build html nlod 1.0 nb
+        id: adocbuild
+        uses: avattathil/asciidoctor-action@master
+        with:
+          program: "asciidoctor -D docs/1.0/no -o index.html -a lang=nb docs/1.0/no/index.adoc"
+
+      - name: Build html nlod 1.0 en
+        id: adocbuild
+        uses: avattathil/asciidoctor-action@master
+        with:
+          program: "asciidoctor -D docs/1.0/en -o index.html -a lang=en docs/1.0/en/index.adoc"
+
+      - name: Upload html nlod 1.0 summary to static-rdf-server
+        uses: Informasjonsforvaltning/upload-files-to-static-rdf-server-action@v3.2.0
+        id: upload-rdf
+        with:
+          ontology-type: "licence"
+          ontology: "nlod"
+          host: "https://staging.fellesdatakatalog.digdir.no"
+          api-key: ${{ secrets.STATIC_RDF_SERVER_API_KEY_STAGING }}
+          files: |
+            docs/1.0/index.html text/html nb
+
+      - name: Upload html nlod 1.0 to static-rdf-server
+        uses: Informasjonsforvaltning/upload-files-to-static-rdf-server-action@v3.2.0
+        id: upload-rdf
+        with:
+          ontology-type: "licence"
+          ontology: "nlod"
+          version: "1.0"
+          host: "https://staging.fellesdatakatalog.digdir.no"
+          api-key: ${{ secrets.STATIC_RDF_SERVER_API_KEY_STAGING }}
+          files: |
+            docs/1.0/no/index.adoc text/html nb
+            docs/1.0/en/index.adoc text/html en

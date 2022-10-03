@@ -1,31 +1,37 @@
-name: build adocs develop
+name: build adocs develop and publish to GitHub pages
 
 on:
   push:
     branches:
-    - develop
+      - develop
     paths:
-    - docs/**
+      - docs/**
+  workflow_dispatch:
 
 jobs:
   adoc_build:
-    runs-on: ubuntu-18.04
+    runs-on: ubuntu-latest
     name: asciidoctor build
     steps:
-    - name: Checkout code
-      uses: actions/checkout@v2
-    - name: Build html
-      id: adocbuild
-      uses: avattathil/asciidoctor-action@master
-      with:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          ref: develop
+
+      - name: Build html
+        id: adocbuild
+        uses: avattathil/asciidoctor-action@master
+        with:
           program: "asciidoctor -D build -R docs 'docs/**/*.adoc'"
-    - name: copy index.html
-      uses: canastro/copy-file-action@master
-      with:
-        source: "docs/index.html"
-        target: "build/index.html"
-    - name: Deploy
-      uses: peaceiris/actions-gh-pages@v3
-      with:
-        github_token: ${{ secrets.GITHUB_TOKEN }}
-        publish_dir: ./build
+
+      - name: copy index.html
+        uses: canastro/copy-file-action@master
+        with:
+          source: "docs/index.html"
+          target: "build/index.html"
+
+      - name: Deploy
+        uses: peaceiris/actions-gh-pages@v3
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_dir: ./build

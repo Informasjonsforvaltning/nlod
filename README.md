@@ -3,7 +3,8 @@
 Repo for revisjon av lisensen.
 
 ## Struktur
-```
+
+```Shell
 ├── en
 │   ├── 2.0
 │   │   └── index.adoc    # engelsk lisens-tekst (juridisk)
@@ -16,7 +17,8 @@ Repo for revisjon av lisensen.
 ```
 
 ## Bygge lokalt
-```
+
+```Shell
 % docker run -it -v $(pwd):/documents asciidoctor/docker-asciidoctor
 # asciidoctor -D build -R docs 'docs/**/*.adoc'
 ```
