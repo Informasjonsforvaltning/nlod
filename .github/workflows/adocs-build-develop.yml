@@ -18,8 +18,14 @@ jobs:
         with:
           ref: develop
 
+      - name: Build html summary
+        id: adocbuild_summary
+        uses: avattathil/asciidoctor-action@master
+        with:
+          program: "asciidoctor -D build -R docs 'docs/*.adoc'"
+
       - name: Build html
-        id: adocbuild
+        id: adocbuild_nlod
         uses: avattathil/asciidoctor-action@master
         with:
           program: "asciidoctor -D build -R docs 'docs/**/*.adoc'"
