@@ -1,9 +1,9 @@
-name: build adocs and publish develop v1.0 to production
+name: build adocs and publish main v1.0 to production
 
 on:
   push:
     branches:
-      - develop
+      - main
     paths:
       - docs/1.0/**
   workflow_dispatch:
@@ -17,7 +17,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v3
         with:
-          ref: develop
+          ref: main
 
       - name: Build html nlod 1.0 no
         id: adocbuild_n0
