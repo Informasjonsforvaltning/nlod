@@ -1,4 +1,4 @@
-name: build adocs and publish develop v2.0 to staging
+name: build adocs and publish develop v2.0 to production
 
 on:
   push:
@@ -43,8 +43,8 @@ jobs:
         with:
           ontology-type: "licence"
           ontology: "nlod"
-          host: "https://staging.fellesdatakatalog.digdir.no"
-          api-key: ${{ secrets.STATIC_RDF_SERVER_API_KEY_STAGING }}
+          host: "https://fellesdatakatalog.digdir.no"
+          api-key: ${{ secrets.STATIC_RDF_SERVER_API_KEY }}
           files: |
             docs/2.0/index.html text/html nb
 
@@ -55,8 +55,8 @@ jobs:
           ontology-type: "licence"
           ontology: "nlod"
           version: "2.0"
-          host: "https://staging.fellesdatakatalog.digdir.no"
-          api-key: ${{ secrets.STATIC_RDF_SERVER_API_KEY_STAGING }}
+          host: "https://fellesdatakatalog.digdir.no"
+          api-key: ${{ secrets.STATIC_RDF_SERVER_API_KEY }}
           files: |
             docs/2.0/no/index.html text/html nb
             docs/2.0/en/index.html text/html en
