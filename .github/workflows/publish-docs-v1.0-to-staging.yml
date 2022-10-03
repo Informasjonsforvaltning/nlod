@@ -39,7 +39,7 @@ jobs:
 
       - name: Upload html nlod 1.0 summary to static-rdf-server
         uses: Informasjonsforvaltning/upload-files-to-static-rdf-server-action@v3.2.0
-        id: upload-rdf
+        id: upload-summary
         with:
           ontology-type: "licence"
           ontology: "nlod"
@@ -50,7 +50,7 @@ jobs:
 
       - name: Upload html nlod 1.0 to static-rdf-server
         uses: Informasjonsforvaltning/upload-files-to-static-rdf-server-action@v3.2.0
-        id: upload-rdf
+        id: upload-nlod
         with:
           ontology-type: "licence"
           ontology: "nlod"
