@@ -1,0 +1,37 @@
+name: build adocs and publish develop summary to staging
+
+on:
+  push:
+    branches:
+      - develop
+    paths:
+      - docs/index.adoc
+  workflow_dispatch:
+
+jobs:
+  adoc_build:
+    runs-on: ubuntu-latest
+    name: asciidoctor build
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+        with:
+          ref: develop
+
+      - name: Build html nlod summary
+        id: adocbuild_summary
+        uses: avattathil/asciidoctor-action@master
+        with:
+          program: "asciidoctor -D docs -o index.html -a lang=nb docs/index.adoc"
+
+      - name: Upload html nlod summary to static-rdf-server
+        uses: Informasjonsforvaltning/upload-files-to-static-rdf-server-action@v3.2.0
+        id: upload-summary
+        with:
+          ontology-type: "licence"
+          ontology: "nlod"
+          host: "https://staging.fellesdatakatalog.digdir.no"
+          api-key: ${{ secrets.STATIC_RDF_SERVER_API_KEY_STAGING }}
+          files: |
+            docs/index.html text/html nb

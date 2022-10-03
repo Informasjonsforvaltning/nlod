@@ -1,9 +1,9 @@
-name: build adocs master and publish to production (legacy)
+name: build adocs main and publish to production (legacy)
 
 on:
   push:
     branches:
-      - master
+      - main
     paths:
       - docs/**
   workflow_dispatch:

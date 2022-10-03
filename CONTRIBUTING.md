@@ -34,7 +34,7 @@ Alle endringer må gjøres ved å endre eller legge til filer i docs-folderen. S
 En typisk git-arbeidsflyt vil vere som følger:
 
 ```Shell
-% git checkout master
+% git checkout develop
 % git pull
 % git checkout -b <ny branch>
 % ... # gjør endringer i din valgte editor
@@ -60,7 +60,11 @@ For at det følgende skal virke på din maskin, må du ha programvare installert
 
 ```Shell
 % docker run -it -v $(pwd):/documents asciidoctor/docker-asciidoctor
-bash-5.0# asciidoctor -D build -R docs 'docs/**/*.adoc'
+asciidoctor -D docs -o index.html -a lang=nb docs/index.adoc
+asciidoctor -D docs/1.0/no -o index.html -a lang=nb docs/1.0/no/index.adoc
+asciidoctor -D docs/1.0/en -o index.html -a lang=en docs/1.0/en/index.adoc
+asciidoctor -D docs/2.0/no -o index.html -a lang=nb docs/2.0/no/index.adoc
+asciidoctor -D docs/2.0/en -o index.html -a lang=en docs/2.0/en/index.adoc
 ```
 
 Åpne filen index.html i din nettleser.
