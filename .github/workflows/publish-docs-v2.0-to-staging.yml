@@ -19,20 +19,20 @@ jobs:
         with:
           ref: develop
 
-      - name: Build html nlod 2.0 summary nb
-        id: adocbuild
+      - name: Build html nlod 2.0 summary no
+        id: adocbuild_summary
         uses: avattathil/asciidoctor-action@master
         with:
           program: "asciidoctor -D docs/2.0 -o index.html -a lang=nb docs/2.0/index.adoc"
 
-      - name: Build html nlod 2.0 nb
-        id: adocbuild
+      - name: Build html nlod 2.0 no
+        id: adocbuild_no
         uses: avattathil/asciidoctor-action@master
         with:
           program: "asciidoctor -D docs/2.0/no -o index.html -a lang=nb docs/2.0/no/index.adoc"
 
       - name: Build html nlod 2.0 en
-        id: adocbuild
+        id: adocbuild_en
         uses: avattathil/asciidoctor-action@master
         with:
           program: "asciidoctor -D docs/2.0/en -o index.html -a lang=en docs/2.0/en/index.adoc"
