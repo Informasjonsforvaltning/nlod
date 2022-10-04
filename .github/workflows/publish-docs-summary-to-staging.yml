@@ -29,7 +29,7 @@ jobs:
         id: adocbuild-summary-en
         uses: avattathil/asciidoctor-action@master
         with:
-          program: "asciidoctor -D docs -o index.html -a lang=nb docs/index-nb.adoc"
+          program: "asciidoctor -D docs -o index-en.html -a lang=en docs/index-en.adoc"
 
       - name: Upload html nlod summary to static-rdf-server
         uses: Informasjonsforvaltning/upload-files-to-static-rdf-server-action@v3.2.0
