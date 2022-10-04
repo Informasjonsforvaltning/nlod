@@ -19,11 +19,17 @@ jobs:
         with:
           ref: develop
 
-      - name: Build html nlod summary
-        id: adocbuild_summary
+      - name: Build html nlod summary nb
+        id: adocbuild-summary-nb
         uses: avattathil/asciidoctor-action@master
         with:
-          program: "asciidoctor -D docs -o index.html -a lang=nb docs/index.adoc"
+          program: "asciidoctor -D docs -o index-nb.html -a lang=nb docs/index-nb.adoc"
+
+      - name: Build html nlod summary en
+        id: adocbuild-summary-en
+        uses: avattathil/asciidoctor-action@master
+        with:
+          program: "asciidoctor -D docs -o index.html -a lang=nb docs/index-nb.adoc"
 
       - name: Upload html nlod summary to static-rdf-server
         uses: Informasjonsforvaltning/upload-files-to-static-rdf-server-action@v3.2.0
@@ -34,4 +40,5 @@ jobs:
           host: "https://staging.fellesdatakatalog.digdir.no"
           api-key: ${{ secrets.STATIC_RDF_SERVER_API_KEY_STAGING }}
           files: |
-            docs/index.html text/html nb
+            docs/index-nb.html text/html nb
+            docs/index-en.html text/html en
