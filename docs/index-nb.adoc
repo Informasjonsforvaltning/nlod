@@ -1,5 +1,5 @@
 == Oppsummering av vilkårene i Norsk lisens for offentlige data (NLOD)
-Kommunal- og moderniseringsdepartementet har utarbeidet en lisensavtale offentlige virksomheter kan bruke ved tilgjengeliggjøring av offentlige data. Data som er lisensiert med Norsk lisens for offentlige data (NLOD) kan fritt viderebrukes på visse vilkår. Disse vilkårene er oppsummert nedenfor. Klikk her for den fullstendige lisenseteksten.
+Kommunal- og distriktsdepartementet har utarbeidet en lisensavtale offentlige virksomheter kan bruke ved tilgjengeliggjøring av offentlige data. Data som er lisensiert med Norsk lisens for offentlige data (NLOD) kan fritt viderebrukes på visse vilkår. Disse vilkårene er oppsummert nedenfor. Klikk her for den fullstendige lisenseteksten.
 
 https://data.norge.no/nlod/2.0/no[Klikk her for den fullstendige lisenseteksten.]
 
