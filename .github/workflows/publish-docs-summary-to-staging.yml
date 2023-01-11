@@ -5,7 +5,9 @@ on:
     branches:
       - develop
     paths:
-      - docs/index.adoc
+      - docs/index-en.adoc
+      - docs/index-nb.adoc
+
   workflow_dispatch:
 
 jobs:
