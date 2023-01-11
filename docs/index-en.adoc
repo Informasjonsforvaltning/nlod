@@ -1,6 +1,6 @@
 = Norwegian Licence for Open Government Data (NLOD)
 
-The Ministry for Government Administration, Reform and church Affairs has created an english version of the standard Norwegian licence for Open Government Data (NLOD).
+The Ministry of Local Government and Regional Development has created an english version of the standard Norwegian licence for Open Government Data (NLOD).
 
 The Ministry recommends all data owners in the public sector to use the licence and we expect that the majority of Norwegian Public Sector Open data will be licenced under the NLOD.
 
