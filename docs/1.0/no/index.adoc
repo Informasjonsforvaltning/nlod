@@ -9,7 +9,7 @@ Digitaliseringsdirektotatet
 :sectlinks:
 
 .Denne versjonen:
-https://data.norge.no/nlod/1.0/no
+https://data.norge.no/nlod/no/1.0
 
 .Siste publiserte versjon (landingsside):
 https://data.norge.no/nlod
