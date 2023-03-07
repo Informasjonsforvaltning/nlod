@@ -11,7 +11,7 @@ Norwegian Digitalisation Agency
 
 
 .This version:
-https://data.norge.no/nlod/1.0/en
+https://data.norge.no/nlod/en/1.0
 
 .Latest published version (landing page):
 https://data.norge.no/nlod
